@@ -1,1 +1,1 @@
-print "hellogit"
+print 2**7
